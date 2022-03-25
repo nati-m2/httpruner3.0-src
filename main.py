@@ -67,7 +67,7 @@ class S(BaseHTTPRequestHandler):
 
     def do_GET(self):
         global count
-        count = count + 1  # 2.1 צריך לשנות לגירסה הבאה
+        count = count + 1 
         self._set_headers()
         self.wfile.write(self._html("hi!"))
         if count > 20:
