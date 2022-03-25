@@ -1,0 +1,4 @@
+Step One: Open the Windows Startup Folder
+To open the “Startup” folder the easy way, just hit Windows+R to open the “Run” box, type “*********shell:startup*******,” and then press Enter
+Step Two: Create a Shortcut in the “Startup” Folder
+The next time you start Windows, your app, file, or folder will launch right along with it.
